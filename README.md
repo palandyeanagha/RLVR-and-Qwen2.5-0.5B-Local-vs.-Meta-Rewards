@@ -60,4 +60,4 @@ Qwen2.5-0.5B (base) → GRPO Training (VERL) → Reward Shaping → Evaluation
 
 ## 🔗 Context
 
-This project was conducted as part of **NYU AI Research** (Jan 2025 – Present), exploring post-training methods for improving LLM reasoning capabilities.
+This project was conducted as part of exploring post-training methods for improving LLM reasoning capabilities.
