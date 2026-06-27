@@ -1,6 +1,6 @@
 # Reinforcement Learning with Verifiable Rewards: Local vs. Meta Reward Shaping on Qwen2.5-0.5B
 
-> **Post-trained Qwen2.5-0.5B using RLVR with GRPO on GSM8K, improving math reasoning accuracy from 33% to 63%. Explored how different reward signal designs (local, meta, and hybrid) affect reasoning quality and training stability.**
+> **Post-trained Qwen2.5-0.5B using RLVR with GRPO on GSM8K, improving math reasoning accuracy from 33.13% to 63.73%. Explored how different reward signal designs (local, meta, and hybrid) affect reasoning quality and training stability.**
 
 ## 🎯 Problem
 
